@@ -293,4 +293,4 @@ Estos ejercicios están diseñados para brindarte experiencia práctica con los 
 
 ¡Siéntete libre de explorar, modificar y expandir el código base!
 
-¡Feliz codificación! 🚀"# S0402-ApiRestWithSpringBoot" 
+¡Feliz codificación! 🚀
